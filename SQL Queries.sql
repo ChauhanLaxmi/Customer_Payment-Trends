@@ -1,8 +1,8 @@
 -- Create and Select Database
-CREATE DATABASE Alt_Mobility;
+CREATE DATABASE Customer_payment;
 
 -- Use the newly created database
-USE Alt_Mobility;
+USE Customer_payment;
 
 ------------------------------------------------------------- Basic Data Analysis
 
